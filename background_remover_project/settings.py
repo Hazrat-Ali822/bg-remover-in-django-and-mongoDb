@@ -39,7 +39,8 @@ SECRET_KEY = 'django-insecure-h22e)q(#k+d$ophh4-%$&mi7c)5dx$m1aec07#f05db(h9l#38
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["bg-removal-api-production-4715.up.railway.app", "127.0.0.1", "localhost"]
+
 
 
 # Application definition
