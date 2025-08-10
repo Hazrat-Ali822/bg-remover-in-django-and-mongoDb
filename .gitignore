@@ -1,0 +1,25 @@
+# Python/Django
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenvs
+venv/
+env/
+.venv/
+
+# Django stuff
+db.sqlite3
+/staticfiles/
+/media/
+media/
+
+# dotenv / secrets
+.env
+.env.*
+.env.production
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
