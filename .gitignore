@@ -15,11 +15,10 @@ db.sqlite3
 media/
 
 # dotenv / secrets
-.env
-.env.*
-.env.production
 
 # Editor / OS
 .idea/
 .DS_Store
 .gitignore
+config.bat
+node_modules
